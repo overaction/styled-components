@@ -1,5 +1,5 @@
 # Styled-Components
 
-* yarn add styled-Components
+* yarn add styled-components
 *
 *
